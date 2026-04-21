@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
+  name: "My Awesome Project1"
   text: "'"
   tagline: My great project tagline
   actions:
